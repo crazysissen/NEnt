@@ -1,0 +1,13 @@
+FileVersion = 1
+Dependencies = {corlib = "*", SDL2 = "*"}
+
+[Project]
+Name = "NEnt"
+TargetType = "BeefGUIApplication"
+StartupObject = "NEnt.Program"
+ProcessorMacros = ["SDL2"]
+
+[Platform.Windows]
+Description = "Simple emulator for the Nintendo Entertainment System."
+Copyright = "2077"
+FileVersion = "0.0.01"

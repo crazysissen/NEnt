@@ -1,0 +1,265 @@
+FileVersion = 1
+LastConfig = "Debug"
+LastPlatform = "Win64"
+RecentFilesList = ["src\\Win\\Window.bf", "src\\NEntWin.bf", "src\\Emulation\\EmuNES.bf", "src\\Emulation\\EmuMan.bf", "src\\Program.bf", "src\\Emulation\\Rom.bf", "src\\Emulation\\Cpu6502.bf", "src\\Win\\Menu.bf", "src\\Win\\MenuItem.bf", "src\\NEntCore.bf", "c:\\Program Files\\BeefLang\\BeefLibs\\corlib\\src\\Array.bf", "c:\\Program Files\\BeefLang\\BeefLibs\\corlib\\src\\GC.bf", "src\\Emulation\\Ppu2C02.bf", "src\\Emulation\\Bus6502.bf", "Disassembly", "src\\PixelKun.bf", "src\\SystemMessage.bf", "Disassembly", "d:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\UInt8.bf", "build\\Release_Win64\\NEnt\\minkernel\\crts\\ucrt\\src\\appcrt\\heap\\malloc.cpp"]
+
+[MainWindow]
+X = 64
+Y = 4
+Width = 1200
+Height = 1024
+ShowKind = "Maximized"
+
+[MainDockingFrame]
+Type = "DockingFrame"
+SplitType = 2
+
+[[MainDockingFrame.DockedWidgets]]
+RequestedWidth = 250.0
+RequestedHeight = 476.0
+SizePriority = 250.0
+Type = "DockingFrame"
+SplitType = 2
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 350.0
+RequestedHeight = 1056.92
+SizePriority = 1056.92
+Type = "DockingFrame"
+SplitType = 1
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 343.0
+RequestedHeight = 200.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Workspace"
+TabWidth = 115.0
+Type = "ProjectPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+IsFillWidget = true
+RequestedWidth = 1177.0
+RequestedHeight = 1057.0
+SizePriority = 1177.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "GC.bf"
+TabWidth = 72.0
+Type = "SourceViewPanel"
+FilePath = "c:\\Program Files\\BeefLang\\BeefLibs\\corlib\\src\\GC.bf"
+CursorPos = 4565
+VertPos = 2190.0
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Ppu2C02.bf"
+TabWidth = 96.0
+Type = "SourceViewPanel"
+FilePath = "src\\Emulation\\Ppu2C02.bf"
+CursorPos = 14
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Bus6502.bf"
+TabWidth = 93.0
+Type = "SourceViewPanel"
+FilePath = "src\\Emulation\\Bus6502.bf"
+CursorPos = 41
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "EmuNES.bf"
+TabWidth = 94.0
+Type = "SourceViewPanel"
+FilePath = "src\\Emulation\\EmuNES.bf"
+CursorPos = 681
+VertPos = 435.0
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Cpu6502.bf"
+TabWidth = 96.0
+Type = "SourceViewPanel"
+FilePath = "src\\Emulation\\Cpu6502.bf"
+CursorPos = 18232
+VertPos = 45.0
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Rom.bf"
+TabWidth = 72.0
+Type = "SourceViewPanel"
+FilePath = "src\\Emulation\\Rom.bf"
+CursorPos = 36
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Program.bf"
+TabWidth = 96.0
+Type = "SourceViewPanel"
+FilePath = "src\\Program.bf"
+CursorPos = 200
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "EmuMan.bf"
+TabWidth = 96.0
+Type = "SourceViewPanel"
+FilePath = "src\\Emulation\\EmuMan.bf"
+CursorPos = 229
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "NEntWin.bf"
+TabWidth = 95.0
+Type = "SourceViewPanel"
+FilePath = "src\\NEntWin.bf"
+CursorPos = 8221
+VertPos = 1575.0
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+IsFillWidget = true
+Permanent = true
+RequestedWidth = 1227.24
+RequestedHeight = 150.0
+SizePriority = 1227.24
+DefaultDocumentsTabbedView = true
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Array.bf"
+TabWidth = 86.0
+Type = "SourceViewPanel"
+FilePath = "c:\\Program Files\\BeefLang\\BeefLibs\\corlib\\src\\Array.bf"
+CursorPos = 8764
+VertPos = 4530.0
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "MenuItem.bf"
+TabWidth = 103.0
+Type = "SourceViewPanel"
+FilePath = "src\\Win\\MenuItem.bf"
+CursorPos = 1301
+VertPos = 690.0
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Menu.bf"
+TabWidth = 78.0
+Type = "SourceViewPanel"
+FilePath = "src\\Win\\Menu.bf"
+CursorPos = 2172
+VertPos = 1065.0
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Window.bf"
+TabWidth = 92.0
+Type = "SourceViewPanel"
+FilePath = "src\\Win\\Window.bf"
+CursorPos = 2860
+VertPos = 1936.875
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "NEntCore.bf"
+TabWidth = 101.0
+Type = "SourceViewPanel"
+FilePath = "src\\NEntCore.bf"
+CursorPos = 824
+VertPos = 585.0
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Disassembly"
+TabWidth = 122.0
+Type = "DisassemblyPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "SystemMessage.bf"
+TabWidth = 139.0
+Type = "SourceViewPanel"
+FilePath = "src\\SystemMessage.bf"
+CursorPos = 166
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "PixelKun.bf"
+TabWidth = 93.0
+Type = "SourceViewPanel"
+FilePath = "src\\PixelKun.bf"
+CursorPos = 2812
+ProjectName = "NEnt"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 250.0
+RequestedHeight = 276.0
+Type = "DockingFrame"
+SplitType = 1
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 250.0
+RequestedHeight = 250.0
+SizePriority = 2112.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Output"
+TabWidth = 90.0
+Type = "OutputPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Memory"
+TabWidth = 99.0
+Type = "MemoryPanel"
+AutoResize = "Auto_Mul8"
+RequestedWidth = 300.0
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Auto"
+TabWidth = 77.0
+Type = "AutoWatchPanel"
+Columns = [{Width = 256.0}, {Width = 1073.0}, {Width = 256.0}]
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Watch"
+TabWidth = 86.0
+Type = "WatchPanel"
+Columns = [{Width = 256.0}, {Width = 256.0}, {Width = 256.0}]
+Items = [""]
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 250.0
+RequestedHeight = 250.0
+SizePriority = 2112.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Threads"
+TabWidth = 97.0
+Type = "ThreadPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Call Stack"
+TabWidth = 105.0
+Type = "CallStackPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Find Results"
+TabWidth = 119.0
+Type = "FindResultsPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Immediate"
+TabWidth = 111.0
+Type = "ImmediatePanel"

@@ -1,0 +1,6 @@
+namespace NEnt
+{
+	class Rom
+	{
+	}
+}
